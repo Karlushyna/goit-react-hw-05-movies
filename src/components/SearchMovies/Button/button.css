@@ -1,0 +1,18 @@
+  .loadButton {
+    align-items: center;
+    margin-bottom: 20px;
+    padding: 10px;
+    background-color: transparent;
+    font-size: medium;
+    color: #000;
+    border: 2px solid rgb(84, 131, 122);
+    border-radius: 3px;
+    cursor: pointer;
+    
+  }
+  
+  .loadButton:hover,
+  .loadButton:focus {
+   background-color: rgb(84, 131, 122) ;
+   color: #fff;
+  }

@@ -1,0 +1,23 @@
+.list{
+  list-style: none;
+
+    padding: 10px;
+    border-radius: 2px;
+    cursor: pointer;
+    
+  }
+  
+  .list:hover,
+  .list:focus {
+    color: #90b5b3;
+  }
+
+  .link {
+    text-decoration: none;
+    color: black;
+  }
+
+.title {
+    font-size: 15px;
+    
+  }

@@ -1,0 +1,19 @@
+import React from 'react';
+import { Dna } from 'react-loader-spinner';
+
+import styles from './loader.css'
+
+const Loader = () => (
+  <div className={styles.loader}>
+    <Dna
+      visible={true}
+      height="80"
+      width="80"
+      ariaLabel="dna-loading"
+      wrapperStyle={{}}
+      wrapperClass="dna-wrapper"
+    />
+  </div>
+);
+
+export default Loader;

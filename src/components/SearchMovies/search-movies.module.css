@@ -1,0 +1,23 @@
+.link {
+  text-decoration: none;
+  color: black;
+}
+
+.title {
+  font-size: 15px;
+}
+
+.search {
+  max-width: 40vw;
+  margin-right: auto;
+  margin-left: auto;
+  /* margin-bottom: 20px; */
+
+}
+
+.message {
+display: flex;
+justify-content: center;
+}
+
+
